@@ -1,5 +1,5 @@
 # IssOverHead
-Obtén un sms cuando el satelite ISS este sobre ti!
+Obtén un sms cuando el satelite ISS este sobre ti
 
 import requests
 from datetime import datetime
